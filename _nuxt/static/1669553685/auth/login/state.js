@@ -1,1 +1,0 @@
-window.__TRUNGANHPORTFOLIO_INITIAL_STATE__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1669553685",layout:"default",error:a,serverRendered:true,routePath:"\u002Fauth\u002Flogin",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}},globalRefs:{}}}(null));
